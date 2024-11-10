@@ -31,9 +31,9 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="#" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" alt="induwara" height="50" width="50" /></a>
-<a href="#" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="induwara" height="50" width="50" /></a>
+<a href="www.linkedin.com/in/induwara-ranasinghe-998341288" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="induwara" height="50" width="50" /></a>
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="induwara" height="50" width="50" /></a>
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="induwara" height="50" width="50" /></a>
+<a href="https://www.facebook.com/profile.php?id=100087541036020&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="induwara" height="50" width="50" /></a>
 
 </p>
 
